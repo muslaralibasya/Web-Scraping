@@ -1,2 +1,2 @@
 # Web-Scraping
-Web Scraping adalah proses pengambilan data secara semi-terstruktur dari suatu halaman website
+Web Scraping is the process of retrieving data in a semi-structured manner from a website page.
